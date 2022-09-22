@@ -1,0 +1,9 @@
+.homeDiv {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: flex-end;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    text-align: center;
+}

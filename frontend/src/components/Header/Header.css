@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Italianno&display=swap");
+#headerTitle {
+    font-family: "Italianno", cursive;
+    font-size: 50px;
+    font-weight: 400;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: stretch;
+    align-items: center;
+    justify-content: flex-start;
+}
